@@ -24,17 +24,20 @@ cd api
 Cài đặt các dependencies:
 npm install
 
-npm start
-Chức Năng
+Chức Năng:
 Đăng Ký và Đăng Nhập
 Đăng Xuất
+
 Quản Lý Nhân Viên (CRUD)
 Thêm mới nhân viên với các thông tin như tên, địa chỉ, ngày sinh, v.v.
 Xem danh sách tất cả nhân viên.
 Cập nhật thông tin nhân viên.
 Xóa nhân viên khỏi hệ thống.
+
 Chấm Công Nhân Viên
 Ghi nhận và cập nhật chấm công cho từng nhân viên.
+
 Báo Cáo Tóm Tắt Chấm Công
+
 Navigation với Expo Router
 Sử dụng Expo Router để quản lý định tuyến giữa các màn hình trong ứng dụng.
